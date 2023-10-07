@@ -1,0 +1,50 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any log files
+*.log
+
+# Ignore environment-specific files
+.env
+
+# Ignore any compiled executables or libraries
+*.so
+*.dll
+
+# Ignore distribution and packaging directories
+dist/
+build/
+
+# Ignore any generated documentation
+docs/_build/
+
+# Ignore local development settings
+*.sqlite3
+
+# Ignore user-specific configurations
+*.bak
+*.swp
+
+# Ignore cached files
+*.cache
+*.pyc
+
+# Ignore test-related files
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
